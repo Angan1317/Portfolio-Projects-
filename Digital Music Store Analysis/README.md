@@ -39,6 +39,7 @@ ORDER BY milliseconds DESC;
 
 
 ### Problem Statements 
+
 Some of the problem statements for this project are:
 1. Who is the senior most employee based on job title?
 2. Which city has the best customers?
